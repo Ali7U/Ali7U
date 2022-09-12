@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%F0%9F%91%8B+I'm+Ali+Al-guaideb+;I'm+Backend+Developer%E2%9A%A1)](https://git.io/typing-svg)
 
-[https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif]
+[[https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif]](https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif)
 
 <h1 align="center">Hi 👋, I'm Ali Al-Guaideb</h1>
 <h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
