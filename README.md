@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+Al-Guaideb;+A+passionate+backend+developer+%E2%9A%A1)](https://git.io/typing-svg)
 
-https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke
+[https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke](https://res.cloudinary.com/practicaldev/image/fetch/s--UC78HoCO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/b6l3psgewvtrtmrr60tg.gif)
+
 - 🔭 I’m currently working on **JavaScript**
 
 - 🌱 I’m currently learning **Node.js**
