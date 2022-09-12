@@ -1,10 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%F0%9F%91%8B+I'm+Ali+Al-guaideb+;I'm+Backend+Developer%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+Al-Guaideb;+A+passionate+backend+developer+)](https://git.io/typing-svg)
 
 https://res.cloudinary.com/practicaldev/image/fetch/s--UC78HoCO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/b6l3psgewvtrtmrr60tg.gif
 
-<h1 align="center">Hi 👋, I'm Ali Al-Guaideb</h1>
-<h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+Al-Guaideb;+A+passionate+full-stack+developer+)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali7u&label=Profile%20views&color=0e75b6&style=flat" alt="ali7u" /> </p>
 
 - 🔭 I’m currently working on **JavaScript**
