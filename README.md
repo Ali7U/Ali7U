@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+Al-Guaideb;+A+passionate+backend+developer+%E2%9A%A1)](https://git.io/typing-svg)
+
 
 ![3e9d52bc38fa287a4cf10dcf8139076d](https://user-images.githubusercontent.com/113184805/189753843-fd413847-46c7-4367-b2fd-44edb62f6a60.gif)
 
